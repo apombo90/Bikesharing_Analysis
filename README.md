@@ -5,8 +5,8 @@ Using Tableau, build a dashboard to convince investors that a bike-sharing progr
 
 
 ## Resources
-- Data source: 201908-citibike-tripdata, citibike_clean
-- Software: Python, Pandas and Tableau.
+- Data source: `201908-citibike-tripdata.csv`, `citibike_clean.csv`
+- Software: `Python`, `Pandas` and `Tableau`.
 - Tableau Public Dashboard: [NYC Citi Bikers Dashboard](https://public.tableau.com/app/profile/andres.pombo/viz/NYCCitiBikersAnalysis/NYCCitiBikeAnalysis "link to dashboard")
  
 ## Results
